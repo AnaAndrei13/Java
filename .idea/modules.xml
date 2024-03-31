@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/App/App.iml" filepath="$PROJECT_DIR$/App/App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Company/Company.iml" filepath="$PROJECT_DIR$/Company/Company.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Divide/Divide.iml" filepath="$PROJECT_DIR$/Divide/Divide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Equation/Equation.iml" filepath="$PROJECT_DIR$/Equation/Equation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Files/Files.iml" filepath="$PROJECT_DIR$/Files/Files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista/Lista.iml" filepath="$PROJECT_DIR$/Lista/Lista.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Person/Person.iml" filepath="$PROJECT_DIR$/Person/Person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Person1/Person1.iml" filepath="$PROJECT_DIR$/Person1/Person1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Robot/Robot.iml" filepath="$PROJECT_DIR$/Robot/Robot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shape/Shape.iml" filepath="$PROJECT_DIR$/Shape/Shape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Student/Student.iml" filepath="$PROJECT_DIR$/Student/Student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumOfIntegers/SumOfIntegers.iml" filepath="$PROJECT_DIR$/SumOfIntegers/SumOfIntegers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Suma/Suma.iml" filepath="$PROJECT_DIR$/Suma/Suma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trip/Trip.iml" filepath="$PROJECT_DIR$/Trip/Trip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/temeJava.iml" filepath="$PROJECT_DIR$/.idea/temeJava.iml" />
+    </modules>
+  </component>
+</project>
